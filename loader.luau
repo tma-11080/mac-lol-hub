@@ -3,7 +3,7 @@
 -- =================================================================
 
 local Library = loadstring(game:HttpGet(
-    "https://github.com/tma-11080/NeonGlass-UI.v2/raw/refs/heads/main/main_redzglass.luau"
+    "https://raw.githubusercontent.com/tma-11080/NeonGlass-UI.v2/refs/heads/main/main_redzglass.luau"
 ))()
 
 -- Window
